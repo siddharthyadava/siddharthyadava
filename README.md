@@ -1,82 +1,101 @@
+<!-- Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Siddharth+Yadava;Full+Stack+Developer;React+|+Node+|+MongoDB;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&center=true&vCenter=true&width=700&duration=3000&color=00E5FF&lines=Hi+I'm+Siddharth+Yadava;Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+About+Modern+Web+Development" />
 </h1>
 
 ---
 
-<h3 align="center">🚀 A passionate Full Stack Developer from India</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 I’m currently learning **MERN Stack / Next.js / TypeScript**
-- 🧠 Love exploring **new technologies & modern UI frameworks**
-- 🛠️ Passionate about building real-world projects  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript**
-- 📫 Reach me at **your-email@example.com**
-- 🧩 Fun fact: I debug faster with music 🎧
-
----
-
-## 🛠️ Languages & Tools
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,bootstrap,tailwind,figma" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-MERN-%2300E5FF?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-%23FF00C8?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-Always%20Learning-%23FFC300?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+
+💡 I love building modern, scalable and user-friendly web applications.  
+🎯 Focused on **JavaScript, React, Node.js & MongoDB**  
+🔥 Passionate about **UI/UX, clean code, and performance**  
+📚 Currently learning **Next.js, TypeScript & advanced backend concepts**  
+🤝 Open to collaboration on **open source** and full-stack projects  
+📩 Reach me at: **siddharthyadav2904@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### **Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### **Tools & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthyadava&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddharthyadava&theme=tokyonight" height="165" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharthyadava&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=siddharthyadava&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🔥 **1. Todo MERN App**
+A modern full-stack project with advanced UI/UX.  
+**Tech:** React, Node.js, MongoDB  
+🔗 https://github.com/siddharthyadava/MERN-Todo-App- 
+
+### ⚡ **2. Eimager**
+A high-performance web application with SSR & API routes.  
+**Tech:** Laravel, Tailwind, SQL 
+🔗 https://github.com/siddharthyadava/Eimager  
+
+### 🚀 **3. Indian Trade Mart**
+Reusable, customizable React components.  
+**Tech:** React, TypeScript, JAVA
+🔗 https://github.com/siddharthyadava/production-todo-app-frontend  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="www.linkedin.com/in/siddharth-yadava" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+<a href="https://www.instagram.com/siddharth.yadava" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@example.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+<a href="mailto:siddharthyadav2904@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddharthyadava&label=Visitors&color=blue&style=flat" />
+</p>
 
-### 🔹 **Project 1 — Your Awesome App**
-- Short description of what it does  
-- **Tech:** React, Node.js, MongoDB  
-- 🔗 GitHub: https://github.com/siddharthyadava/your-project-1  
-
----
-
-### 🔹 **Project 2 — Another Cool Project**
-- A brief summary  
-- **Tech:** Next.js, Firebase  
-- 🔗 GitHub: https://github.com/siddharthyadava/your-project-2  
-
----
-
-## 💬 Quote of the Day
-> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
-
----
-
-<p align="center">⭐ Thanks for visiting my GitHub profile! ⭐</p>
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
