@@ -5,7 +5,7 @@
 
 ---
 
-<!-- Banner -->
+<!-- Banner Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-MERN-%2300E5FF?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-%23FF00C8?style=for-the-badge&logo=github" />
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-💡 I love building modern, scalable and user-friendly web applications.  
+💡 I love building modern, scalable, and user-friendly web applications  
 🎯 Focused on **JavaScript, React, Node.js & MongoDB**  
 🔥 Passionate about **UI/UX, clean code, and performance**  
 📚 Currently learning **Next.js, TypeScript & advanced backend concepts**  
@@ -47,12 +47,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharthyadava&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=siddharthyadava&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharthyadava&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=siddharthyadava&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -60,26 +60,26 @@
 ## ⭐ Featured Projects
 
 ### 🔥 **1. Todo MERN App**
-A modern full-stack project with advanced UI/UX.  
+A modern full-stack project with advanced UI/UX  
 **Tech:** React, Node.js, MongoDB  
-🔗 https://github.com/siddharthyadava/MERN-Todo-App- 
+🔗 https://github.com/siddharthyadava/MERN-Todo-App-
 
 ### ⚡ **2. Eimager**
-A high-performance web application with SSR & API routes.  
-**Tech:** Laravel, Tailwind, SQL 
-🔗 https://github.com/siddharthyadava/Eimager  
+A high-performance web application with SSR & API routes  
+**Tech:** Laravel, Tailwind, SQL  
+🔗 https://github.com/siddharthyadava/Eimager
 
 ### 🚀 **3. Indian Trade Mart**
-Reusable, customizable React components.  
-**Tech:** React, TypeScript, JAVA
-🔗 https://github.com/siddharthyadava/production-todo-app-frontend  
+Reusable, customizable React components  
+**Tech:** React, TypeScript, Java  
+🔗 https://github.com/siddharthyadava/production-todo-app-frontend
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/siddharth-yadava" target="_blank">
+<a href="https://www.linkedin.com/in/siddharth-yadava" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 &nbsp;&nbsp;
@@ -95,7 +95,9 @@ Reusable, customizable React components.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddharthyadava&label=Visitors&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=siddharthyadava&label=Profile%20Views&color=00E5FF&style=flat" />
 </p>
 
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
