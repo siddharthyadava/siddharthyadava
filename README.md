@@ -1,114 +1,138 @@
-<!-- Hero Section -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&center=true&vCenter=true&width=720&duration=2500&color=00E5FF&lines=Hey+👋,+I'm+Siddharth+Yadav;Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Products" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Crafting modern, scalable, and high-performance web applications</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0a0f,50:0d1117,100:0a0a0f&height=150&text=SIDDHARTH%20YADAV&fontColor=E6EDF3&fontSize=40&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=78&descSize=14&animation=blinking" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-Full%20Stack%20Developer-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20Next.js-FF00C8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Problem%20Solver-FFC300?style=for-the-badge" />
-</p>
+</div>
 
----
+<br/>
 
-## 🧠 About Me
+<div align="center">
 
-I’m a **Full Stack Developer** who enjoys transforming ideas into **scalable, user-centric web products**.
+![](https://img.shields.io/badge/-%3E%20Available%20for%20collaboration-238636?style=flat-square&logo=git&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Location-India-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff)
+&nbsp;
+![](https://img.shields.io/badge/Focus-Scalable%20Web%20Products-58a6ff?style=flat-square)
 
-- 🚀 Strong focus on **JavaScript, React, Node.js & MongoDB**
-- 🎨 Passionate about **UI/UX, performance & clean architecture**
-- 🧩 Love solving real-world problems through code
-- 🌱 Currently deep-diving into **Next.js, TypeScript & backend scalability**
-- 🤝 Open to **open-source contributions and collaborative projects**
+</div>
 
-📫 **Contact:** `siddharthyadav2904@gmail.com`
+<br/>
 
----
+```javascript
+const siddharth = {
+  role     : "Full Stack Developer",
+  stack    : ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
+  crafting : "scalable · performant · clean",
+  learning : ["Next.js App Router", "TypeScript patterns", "Backend scalability"],
+  contact  : "siddharthyadav2904@gmail.com",
+  openTo   : ["open-source", "collaborations", "impactful products"]
+};
+```
 
-## 🛠️ Tech Arsenal
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
-</p>
+<br/>
 
 ---
 
-## 📈 Development Snapshot
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=siddharthyadava&show_icons=true&theme=tokyonight" />
-</p>
+### ⚡ About
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharthyadava&theme=tokyonight" />
-</p>
+I build **end-to-end web products** that are fast, maintainable, and actually delightful to use.
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=tokyonight" />
-</p>
+Strong opinions about clean code, sensible architecture, and interfaces that don't get in the way.
 
----
+Currently deep-diving into **Next.js**, **TypeScript**, and making backends that don't cry under load.
 
-## 🌟 Highlighted Projects
+📬 `siddharthyadav2904@gmail.com`
 
-### 🔥 Todo MERN App
-A full-stack todo platform with authentication and a modern UI.  
-**Stack:** React, Node.js, MongoDB  
-🔗 https://github.com/siddharthyadava/MERN-Todo-App-
+<br/>
 
----
+### 🌐 Reach Me
 
-### ⚡ Eimager
-A performance-focused web application with optimized backend workflows.  
-**Stack:** Laravel, Tailwind, SQL  
-🔗 https://github.com/siddharthyadava/Eimager
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-yadava)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddharth.yadava)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthyadav2904@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23171515.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthyadava)
 
----
+</td>
+<td width="45%" valign="top">
 
-### 🚀 Indian Trade Mart
-A scalable frontend system built with reusable components.  
-**Stack:** React, TypeScript, Java  
-🔗 https://github.com/siddharthyadava/production-todo-app-frontend
+### 📊 Stats
 
----
+![](https://github-readme-stats.vercel.app/api?username=siddharthyadava&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff)
 
-## 🌐 Let’s Connect
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthyadava&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddharth-yadava" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/siddharth.yadava" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:siddharthyadav2904@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddharthyadava&label=Profile%20Views&color=00E5FF&style=flat" />
-</p>
+### 🔥 Streak
 
-<p align="center">
-  ⭐ If you like my work, feel free to explore and star my repositories!
-</p>
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=siddharthyadava&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=e6edf3&sideNums=e6edf3&currStreakNum=e6edf3&dates=8b949e)
+
+</div>
+
+---
+
+### 🛠 Stack
+
+<div align="center">
+
+**[ Frontend ]**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**[ Backend ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**[ Tools ]**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| **Todo MERN App** | Full-stack platform with auth & modern UI | `React` `Node.js` `MongoDB` | [→ View](https://github.com/siddharthyadava/MERN-Todo-App-) |
+| **Eimager** | Performance-focused image processing app | `Laravel` `Tailwind` `MySQL` | [→ View](https://github.com/siddharthyadava/Eimager) |
+| **Indian Trade Mart** | Scalable component-driven frontend system | `React` `TypeScript` `Java` | [→ View](https://github.com/siddharthyadava/production-todo-app-frontend) |
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=siddharthyadava&label=Profile+Views&color=58a6ff&style=flat-square)
+&nbsp;&nbsp;
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a0a0f&height=80&section=footer" />
+
+</div>
